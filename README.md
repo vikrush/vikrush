@@ -51,14 +51,16 @@
 
 <h1></h1>
 
+<h3><img src="/assets/mario.gif" width="30" valign="middle" alt=""/> My Projects</h3>
+<ul>
+    <li>
+        🎥 <a href="https://github.com/vikrush/DownloadX"><b>DownloadX</b></a> : All-in-One Video & Audio Downloader
+    </li>
+</ul>
+
+<h1></h1>
+
 <h3><img src="/assets/coding.gif" width="30" valign="middle" alt=""/> Featured Projects</h3>
-<b>🎥 All-in-One Video & Audio Downloader</b>
-<p>
-    I'm building a platform where users can download video and audio from multiple platforms like YouTube, Facebook,
-    Instagram, etc. all in one place. My goal is to create a clean and simple UI, with options to choose the format and
-    quality you want to download in. Over time, I plan to add features like playlist downloads, subtitle support, batch
-    processing, and possibly browser extensions and apps to make this experience even more seamless.
-</p>
 <b>🤖 AI-Powered Research & Creative Platform</b>
 <p>
     Using an open-source AI model, I want to build a system that can search the internet, surface credible sources,
